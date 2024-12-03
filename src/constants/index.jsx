@@ -97,7 +97,7 @@ export const faq = [
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Do you offer training for individual and teams?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },
