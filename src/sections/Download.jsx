@@ -1,4 +1,3 @@
-import React from "react";
 import { Element } from "react-scroll";
 import { links, logos } from "../constants/index.jsx";
 import Marker from "../components/Marker.jsx";
